@@ -20,7 +20,7 @@ To get started with the Player Mood Script, follow these steps:
 1. **Download the Script**: Clone or download the repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/playermood.git
+    git clone https://github.com/TalosTheMinoan/Playermood
    ```
 
 2. **Add to FiveM Server**: Place the `playermood` folder into your FiveM server's `resources` directory.
